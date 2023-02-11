@@ -1,0 +1,1 @@
+This first part of AirBnB_clone project attempts to implement a real world web application using the idea of class in python. This first part contains building models and customized command interpreter.
